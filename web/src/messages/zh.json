@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "siteTitle": "酒氷 SAKEGORI — 别府",
+    "siteDescription": "细腻刨冰淋上柔和的酒糖浆,盛入传统日式木枡,堆得高高的。日本大分县别府市。"
+  },
+  "nav": {
+    "home": "首页",
+    "menu": "菜单",
+    "gallery": "画廊",
+    "store": "门店信息",
+    "merch": "周边商品"
+  },
+  "hero": {
+    "eyebrow": "日本大分县别府市",
+    "title": "酒氷",
+    "titleRomaji": "SAKEGORI",
+    "tagline": "削る、香る、味わう。",
+    "taglineEn": "刨冰、芬芳、回味。",
+    "body": "细腻刨冰浸润着丝滑酒糖浆,盛入传统日式木枡堆得高高的——这是别府独有的一碗风味。",
+    "ctaMenu": "查看菜单",
+    "ctaStore": "查找门店"
+  },
+  "menuPreview": {
+    "title": "我们的菜单",
+    "subtitle": "刨冰、冲煮、调制——一览店内风味。",
+    "scrollHint": "滑动查看更多",
+    "viewAll": "查看完整菜单",
+    "alcoholTag": "含酒精",
+    "nonAlcoholTag": "无酒精"
+  },
+  "menuPage": {
+    "title": "菜单",
+    "subtitle": "削る、香る、味わう。 刨冰、芬芳、回味。",
+    "priceNote": "以上价格均含税。",
+    "allergyNote": "如有过敏事项,请咨询店员。",
+    "kakigoriAlcoholTitle": "酒氷（含酒精）",
+    "kakigoriNonAlcoholTitle": "酒氷（无酒精）",
+    "seasonalNote": "季节限定口味请咨询店员。",
+    "brownSugarNote": "所有酒氷（刨冰）均会附上现刨的冲绳产黑糖。如不需要,请告知店员。",
+    "drinksTitle": "饮品",
+    "toppingsTitle": "配料",
+    "sakeTitle": "日本酒",
+    "abvLabel": "酒精度",
+    "servedInGlass": "以酒杯形式供应。",
+    "setTitle": "酒氷 SET 套餐",
+    "setDescription": "任选酒氷 + 任选饮品",
+    "setSeasonalNote": "如选择季节限定酒氷",
+    "sakeItems": {
+      "yuzuSparkling": {
+        "name": "柚子气泡清酒",
+        "description": "产自大分县,柚子香气清爽怡人的气泡清酒。"
+      },
+      "juliaSparkling": {
+        "name": "Julia 气泡清酒",
+        "description": "以纯米酒为基底,清爽怡人的气泡清酒。"
+      },
+      "todaysSake": {
+        "name": "本日清酒",
+        "description": "详情请咨询店员。"
+      }
+    },
+    "items": {
+      "white": {
+        "name": "白",
+        "descriptionAlcohol": "以牛奶为基底的绵密刨冰,淡淡地融入纯米酒香,佐以现刨黑糖——顺滑温润,回味悠长。",
+        "descriptionNonAlcohol": "以自家制甘酒增添自然甜味的牛奶刨冰,佐以现刨黑糖——温柔顺滑,暖心治愈。"
+      },
+      "black": {
+        "name": "黑",
+        "descriptionAlcohol": "以纯米酒与黑糖糖浆增添深度的牛奶刨冰,大量佐以现刨黑糖——浓郁香甜,暖意十足。",
+        "descriptionNonAlcohol": "以自家制甘酒与黑糖糖浆增添深度的牛奶刨冰,大量佐以现刨黑糖——浓郁香甜,暖意十足。"
+      },
+      "matcha": {
+        "name": "抹茶",
+        "nameAlcohol": "抹茶拿铁",
+        "descriptionAlcohol": "打发抹茶融入丝滑牛奶,佐以咖啡利口酒的温润香气,再撒上现刨黑糖——醇厚浓香,回味无穷。",
+        "descriptionNonAlcohol": "打发抹茶融入自家制甘酒与丝滑牛奶,佐以现刨黑糖——香气怡人,自然回甘。"
+      },
+      "coffee": {
+        "name": "咖啡",
+        "descriptionAlcohol": "以咖啡利口酒增添温度的牛奶刨冰,佐以现刨黑糖——微苦顺滑,口感绵密。",
+        "descriptionNonAlcohol": "以自家制甘酒与咖啡糖浆增添风味的牛奶刨冰,佐以现刨黑糖——香醇顺口,温柔治愈。"
+      },
+      "seasonal": {
+        "name": "季节限定",
+        "descriptionAlcohol": "季节限定的特别口味,近期版本为梅酒风味刨冰,佐以现刨黑糖。详情请咨询店员。",
+        "descriptionNonAlcohol": "季节限定的特别口味,近期版本为清爽臭橙风味。详情请咨询店员。"
+      },
+      "cafeLatte": {
+        "name": "咖啡拿铁",
+        "description": "咖啡与黑糖糖浆融合自家制甘酒与鲜奶的冰拿铁,香醇顺口,微甜怡人。"
+      },
+      "matchaLatte": {
+        "name": "抹茶拿铁",
+        "description": "打发抹茶与鲜奶交融,撒上抹茶粉的冰拿铁,清香怡人,微甜可口。"
+      },
+      "brownSugarLatte": {
+        "name": "黑糖拿铁",
+        "description": "黑糖糖浆与自家制甘酒融合鲜奶,佐以现刨黑糖的冰拿铁,浓郁顺滑。"
+      },
+      "kabosuSoda": {
+        "name": "臭橙苏打",
+        "description": "臭橙糖浆与通宁水交融的清爽气泡饮,佐以新鲜臭橙。"
+      },
+      "condensedMilk": {
+        "name": "炼乳",
+        "description": "淋上香浓炼乳,增添丝滑口感。"
+      },
+      "shavedBrownSugar": {
+        "name": "黑糖碎",
+        "description": "加量现刨冲绳产黑糖。"
+      },
+      "roastedSoybeanFlour": {
+        "name": "黄豆粉",
+        "description": "香烤黄豆粉,增添温润的烘焙香气。"
+      }
+    }
+  },
+  "storePage": {
+    "title": "门店信息",
+    "subtitle": "别府的酒氷",
+    "currentStoreTitle": "酒氷 本店",
+    "addressLabel": "地址",
+    "address": "3-9 Ekimae-cho, Beppu, Oita, Japan",
+    "addressJa": "大分县别府市站前町3-9",
+    "hoursLabel": "营业时间",
+    "hours": "每日 12:00–20:00 营业",
+    "accessLabel": "交通",
+    "accessBody": "从JR别府站东口步行即可抵达。",
+    "phoneLabel": "电话",
+    "emailLabel": "邮箱",
+    "instagramLabel": "Instagram",
+    "futureTitle": "更多门店即将开业",
+    "futureBody": "酒氷正在持续拓展中！新门店信息将在本页与Instagram同步公布,敬请期待。",
+    "mapLabel": "地图"
+  },
+  "merchPage": {
+    "title": "周边商品",
+    "eyebrow": "即将推出",
+    "body": "周边商品正在筹备中。融合别府刨冰文化与酒氷品牌特色的原创商品即将登场,欢迎关注Instagram获取最新消息。",
+    "cta": "关注 Instagram"
+  },
+  "galleryPage": {
+    "title": "画廊",
+    "subtitle": "近距离感受酒氷的店内空间,以及菜单上每一款刨冰。",
+    "spaceTitle": "店内环境",
+    "productTitle": "酒氷全系列",
+    "seasonalAlcoholName": "红茶梅酒",
+    "seasonalNonAlcoholName": "臭橙"
+  },
+  "footer": {
+    "tagline": "削る、香る、味わう。",
+    "addressShort": "大分县别府市站前町3-9",
+    "rights": "版权所有。"
+  },
+  "contact": {
+    "phoneLabel": "电话",
+    "emailLabel": "邮箱",
+    "addressLabel": "地址",
+    "phone": "070-3293-8443",
+    "email": "sakegori.jp@gmail.com",
+    "address": "大分县别府市站前町3-9"
+  },
+  "languageSwitcher": {
+    "label": "语言"
+  }
+}

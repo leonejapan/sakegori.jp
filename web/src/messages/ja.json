@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "siteTitle": "酒氷 SAKEGORI — 別府",
+    "siteDescription": "香り立つ酒シロップをまとった、ふわふわのかき氷を木枡に山高く。大分県別府市。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "gallery": "ギャラリー",
+    "store": "店舗案内",
+    "merch": "グッズ"
+  },
+  "hero": {
+    "eyebrow": "大分県別府市",
+    "title": "酒氷",
+    "titleRomaji": "SAKEGORI",
+    "tagline": "削る、香る、味わう。",
+    "taglineEn": "Shaved, Aromatic, Tasteful.",
+    "body": "ふわりと削った氷に、まろやかな酒シロップをたっぷりと。伝統の木枡に山高く盛った、別府生まれの一杯です。",
+    "ctaMenu": "メニューを見る",
+    "ctaStore": "店舗を探す"
+  },
+  "menuPreview": {
+    "title": "メニュー",
+    "subtitle": "削る、注ぐ、淹れる——当店の味をひと目で。",
+    "scrollHint": "スクロールしてもっと見る",
+    "viewAll": "全メニューを見る",
+    "alcoholTag": "アルコール",
+    "nonAlcoholTag": "ノンアルコール"
+  },
+  "menuPage": {
+    "title": "メニュー",
+    "subtitle": "削る、香る、味わう。",
+    "priceNote": "価格はすべて税込みです。",
+    "allergyNote": "アレルギーについてはスタッフまでお尋ねください。",
+    "kakigoriAlcoholTitle": "酒氷（アルコール）",
+    "kakigoriNonAlcoholTitle": "酒氷（ノンアルコール）",
+    "seasonalNote": "季節の酒氷の内容はスタッフまでお尋ねください。",
+    "brownSugarNote": "すべての酒氷（かき氷）には、削りたての沖縄県産黒糖を添えております。ご不要の際はスタッフまでお申し付けください。",
+    "drinksTitle": "ドリンク",
+    "toppingsTitle": "トッピング",
+    "sakeTitle": "日本酒",
+    "abvLabel": "度数",
+    "servedInGlass": "グラスでご提供します。",
+    "setTitle": "酒氷 SET",
+    "setDescription": "お好きな酒氷 ＋ お好きなドリンク",
+    "setSeasonalNote": "季節の酒氷の場合は",
+    "sakeItems": {
+      "yuzuSparkling": {
+        "name": "ゆずスパークリング",
+        "description": "大分県産、ゆずの香り広がる軽やかなスパークリング日本酒。"
+      },
+      "juliaSparkling": {
+        "name": "Julia スパークリング",
+        "description": "純米ベースの、すっきり爽快なスパークリング日本酒。"
+      },
+      "todaysSake": {
+        "name": "本日の日本酒",
+        "description": "本日の内容はスタッフまでお尋ねください。"
+      }
+    },
+    "items": {
+      "white": {
+        "name": "白",
+        "descriptionAlcohol": "ミルクベースのクリーミーな氷に純米酒をほんのりと効かせ、削りたての黒糖を添えて。なめらかで、じんわりと温まる味わいです。",
+        "descriptionNonAlcohol": "自家製甘酒でやさしく甘みを添えたミルクベースの氷に、削りたての黒糖を。やさしく、ほっとする甘さです。"
+      },
+      "black": {
+        "name": "黒",
+        "descriptionAlcohol": "純米酒と黒糖シロップでコクを深めたミルク氷に、たっぷりの削り黒糖を。濃厚で温かみのある甘さです。",
+        "descriptionNonAlcohol": "自家製甘酒と黒糖シロップでコクを深めたミルク氷に、たっぷりの削り黒糖を。濃厚で温かみのある甘さです。"
+      },
+      "matcha": {
+        "name": "抹茶",
+        "nameAlcohol": "抹茶ラテ",
+        "descriptionAlcohol": "点てた抹茶をなめらかなミルクに溶け込ませ、コーヒーリキュールのほのかな温もりを添えて。削り黒糖を仕上げに。芳醇でコクのある一杯です。",
+        "descriptionNonAlcohol": "点てた抹茶を自家製甘酒となめらかなミルクに溶け込ませ、削り黒糖を仕上げに。香り高く自然な甘さの一杯です。"
+      },
+      "coffee": {
+        "name": "コーヒー",
+        "descriptionAlcohol": "コーヒーリキュールでほんのり温めたミルク氷に、削り黒糖を仕上げに。ビターでクリーミーな味わいです。",
+        "descriptionNonAlcohol": "自家製甘酒とコーヒーシロップでコクを添えたミルク氷に、削り黒糖を仕上げに。香ばしくやさしい味わいです。"
+      },
+      "seasonal": {
+        "name": "季節",
+        "descriptionAlcohol": "季節ごとに変わる限定の一杯。直近では梅酒仕立ての氷に削り黒糖を添えたものをご用意しました。本日の内容はスタッフへお尋ねください。",
+        "descriptionNonAlcohol": "季節ごとに変わる限定の一杯。直近ではカボスの爽やかな一杯をご用意しました。本日の内容はスタッフへお尋ねください。"
+      },
+      "cafeLatte": {
+        "name": "カフェラテ",
+        "description": "コーヒーと黒糖シロップに自家製甘酒とミルクを合わせたアイスラテ。香ばしくやさしい甘さです。"
+      },
+      "matchaLatte": {
+        "name": "抹茶ラテ",
+        "description": "点てた抹茶とミルクを合わせ、仕上げに抹茶パウダーをふりかけたアイスラテ。香り高くやさしい甘さです。"
+      },
+      "brownSugarLatte": {
+        "name": "黒糖ラテ",
+        "description": "黒糖シロップと自家製甘酒にミルクを合わせ、削り黒糖を添えたアイスラテ。コクがあり、やさしい味わいです。"
+      },
+      "kabosuSoda": {
+        "name": "カボスソーダ",
+        "description": "カボスシロップにトニックウォーターを合わせた、爽やかな一杯。カボスを添えて。"
+      },
+      "condensedMilk": {
+        "name": "練乳",
+        "description": "コクのある練乳をひとまわし、まろやかさをプラス。"
+      },
+      "shavedBrownSugar": {
+        "name": "黒糖削り",
+        "description": "削りたての沖縄県産黒糖をたっぷりと追加。"
+      },
+      "roastedSoybeanFlour": {
+        "name": "きな粉",
+        "description": "香ばしいきな粉で、温かみのある奥行きをプラス。"
+      }
+    }
+  },
+  "storePage": {
+    "title": "店舗案内",
+    "subtitle": "別府の酒氷へ",
+    "currentStoreTitle": "酒氷 本店",
+    "addressLabel": "住所",
+    "address": "3-9 Ekimae-cho, Beppu, Oita, Japan",
+    "addressJa": "大分県別府市駅前町3-9",
+    "hoursLabel": "営業時間",
+    "hours": "毎日 12:00〜20:00 営業",
+    "accessLabel": "アクセス",
+    "accessBody": "JR別府駅東口より徒歩すぐ。",
+    "phoneLabel": "電話番号",
+    "emailLabel": "メール",
+    "instagramLabel": "Instagram",
+    "futureTitle": "新店舗、近日オープン予定",
+    "futureBody": "酒氷は今後も店舗を拡大予定です。新店舗情報はこちらとInstagramでお知らせします。お楽しみに。",
+    "mapLabel": "地図"
+  },
+  "merchPage": {
+    "title": "グッズ",
+    "eyebrow": "近日公開",
+    "body": "ただいま準備中です。別府のかき氷文化と酒氷らしさを詰め込んだオリジナルグッズを、近日公開予定。最新情報はInstagramでいち早くお届けします。",
+    "cta": "Instagramをフォロー"
+  },
+  "galleryPage": {
+    "title": "ギャラリー",
+    "subtitle": "酒氷の店内と、メニューにある酒氷全種をご紹介します。",
+    "spaceTitle": "店内",
+    "productTitle": "酒氷ラインナップ",
+    "seasonalAlcoholName": "紅茶梅酒",
+    "seasonalNonAlcoholName": "カボス"
+  },
+  "footer": {
+    "tagline": "削る、香る、味わう。",
+    "addressShort": "大分県別府市駅前町3-9",
+    "rights": "All rights reserved."
+  },
+  "contact": {
+    "phoneLabel": "電話番号",
+    "emailLabel": "メール",
+    "addressLabel": "住所",
+    "phone": "070-3293-8443",
+    "email": "sakegori.jp@gmail.com",
+    "address": "大分県別府市駅前町3-9"
+  },
+  "languageSwitcher": {
+    "label": "言語"
+  }
+}

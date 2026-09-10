@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "siteTitle": "酒氷 SAKEGORI — 벳푸",
+    "siteDescription": "부드러운 사케 시럽을 머금은 빙수를 전통 일본 마스에 산처럼 담아냅니다. 오이타현 벳푸시."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "gallery": "갤러리",
+    "store": "매장 안내",
+    "merch": "굿즈"
+  },
+  "hero": {
+    "eyebrow": "오이타현 벳푸시",
+    "title": "酒氷",
+    "titleRomaji": "SAKEGORI",
+    "tagline": "削る、香る、味わう。",
+    "taglineEn": "깎고, 향기롭고, 음미하다.",
+    "body": "곱게 간 얼음에 부드러운 사케 시럽을 듬뿍 적셔 전통 나무 마스에 산처럼 쌓아 올린, 벳푸에서 태어난 한 그릇입니다.",
+    "ctaMenu": "메뉴 보기",
+    "ctaStore": "매장 찾기"
+  },
+  "menuPreview": {
+    "title": "메뉴 한눈에",
+    "subtitle": "깎고, 내리고, 우려낸 저희의 맛을 한눈에 소개합니다.",
+    "scrollHint": "옆으로 스크롤해서 더 보기",
+    "viewAll": "전체 메뉴 보기",
+    "alcoholTag": "알코올",
+    "nonAlcoholTag": "논알코올"
+  },
+  "menuPage": {
+    "title": "메뉴",
+    "subtitle": "削る、香る、味わう。 깎고, 향기롭고, 음미하다.",
+    "priceNote": "모든 가격은 세금 포함입니다.",
+    "allergyNote": "알레르기 관련 사항은 직원에게 문의해 주세요.",
+    "kakigoriAlcoholTitle": "酒氷 (알코올)",
+    "kakigoriNonAlcoholTitle": "酒氷 (논알코올)",
+    "seasonalNote": "오늘의 계절 메뉴는 직원에게 문의해 주세요.",
+    "brownSugarNote": "모든 酒氷(빙수)에는 갓 깎은 오키나와산 흑설탕이 함께 제공됩니다. 원치 않으실 경우 직원에게 말씀해 주세요.",
+    "drinksTitle": "음료",
+    "toppingsTitle": "토핑",
+    "sakeTitle": "일본 사케",
+    "abvLabel": "도수",
+    "servedInGlass": "잔에 담아 제공됩니다.",
+    "setTitle": "酒氷 SET",
+    "setDescription": "원하는 酒氷 + 원하는 음료",
+    "setSeasonalNote": "시즌 한정 酒氷의 경우",
+    "sakeItems": {
+      "yuzuSparkling": {
+        "name": "유자 스파클링 사케",
+        "description": "오이타현산, 유자 향이 은은하게 퍼지는 가벼운 스파클링 사케."
+      },
+      "juliaSparkling": {
+        "name": "Julia 스파클링 사케",
+        "description": "준마이 베이스의 상쾌한 스파클링 사케."
+      },
+      "todaysSake": {
+        "name": "오늘의 사케",
+        "description": "오늘의 메뉴는 직원에게 문의해 주세요."
+      }
+    },
+    "items": {
+      "white": {
+        "name": "화이트",
+        "descriptionAlcohol": "우유를 베이스로 한 부드러운 빙수에 준마이 사케 향을 은은하게 더하고, 흑설탕 가루를 곁들였습니다. 매끄럽고 은근하게 몸을 데워줍니다.",
+        "descriptionNonAlcohol": "직접 만든 감주로 은은한 단맛을 더한 밀크 빙수에 흑설탕 가루를 곁들였습니다. 부드럽고 편안한 단맛입니다."
+      },
+      "black": {
+        "name": "블랙",
+        "descriptionAlcohol": "준마이 사케와 흑설탕 시럽으로 깊은 맛을 더한 밀크 빙수에 흑설탕 가루를 듬뿍. 진하고 따뜻한 단맛입니다.",
+        "descriptionNonAlcohol": "직접 만든 감주와 흑설탕 시럽으로 깊은 맛을 더한 밀크 빙수에 흑설탕 가루를 듬뿍. 진하고 따뜻한 단맛입니다."
+      },
+      "matcha": {
+        "name": "말차",
+        "nameAlcohol": "말차라테",
+        "descriptionAlcohol": "곱게 낸 말차를 부드러운 우유에 녹이고, 커피 리큐어의 은은한 온기를 더해 흑설탕 가루로 마무리했습니다. 진하고 향긋한 한 잔입니다.",
+        "descriptionNonAlcohol": "곱게 낸 말차를 감주와 부드러운 우유에 녹이고, 흑설탕 가루로 마무리했습니다. 향긋하고 자연스러운 단맛입니다."
+      },
+      "coffee": {
+        "name": "커피",
+        "descriptionAlcohol": "커피 리큐어로 온기를 더한 밀크 빙수에 흑설탕 가루를 곁들였습니다. 쌉싸름하고 부드러운 맛입니다.",
+        "descriptionNonAlcohol": "감주와 커피 시럽으로 풍미를 더한 밀크 빙수에 흑설탕 가루를 곁들였습니다. 부드럽고 향긋한 맛입니다."
+      },
+      "seasonal": {
+        "name": "시즌 한정",
+        "descriptionAlcohol": "계절마다 바뀌는 한정 메뉴입니다. 최근에는 매실주 풍미의 빙수에 흑설탕 가루를 곁들였습니다. 오늘의 메뉴는 직원에게 문의해 주세요.",
+        "descriptionNonAlcohol": "계절마다 바뀌는 한정 메뉴입니다. 최근에는 상큼한 카보스 풍미를 선보였습니다. 오늘의 메뉴는 직원에게 문의해 주세요."
+      },
+      "cafeLatte": {
+        "name": "카페라테",
+        "description": "커피와 흑설탕 시럽에 감주와 우유를 더한 아이스 라테. 향긋하고 부드러운 단맛입니다."
+      },
+      "matchaLatte": {
+        "name": "말차라테",
+        "description": "곱게 낸 말차와 우유를 더하고 말차 가루를 뿌린 아이스 라테. 향긋하고 은은하게 답니다."
+      },
+      "brownSugarLatte": {
+        "name": "흑설탕라테",
+        "description": "흑설탕 시럽과 감주에 우유를 더하고 흑설탕 가루를 곁들인 아이스 라테. 진하고 부드럽습니다."
+      },
+      "kabosuSoda": {
+        "name": "카보스소다",
+        "description": "카보스 시럽에 토닉워터를 더한 상큼한 음료. 신선한 카보스를 곁들였습니다."
+      },
+      "condensedMilk": {
+        "name": "연유",
+        "description": "진한 연유를 더해 부드러움을 한층 살렸습니다."
+      },
+      "shavedBrownSugar": {
+        "name": "흑설탕가루",
+        "description": "갓 깎은 오키나와산 흑설탕을 추가로 듬뿍."
+      },
+      "roastedSoybeanFlour": {
+        "name": "콩가루",
+        "description": "고소하게 볶은 콩가루로 따뜻하고 깊은 풍미를 더합니다."
+      }
+    }
+  },
+  "storePage": {
+    "title": "매장 안내",
+    "subtitle": "벳푸의 酒氷을 찾아서",
+    "currentStoreTitle": "酒氷 본점",
+    "addressLabel": "주소",
+    "address": "3-9 Ekimae-cho, Beppu, Oita, Japan",
+    "addressJa": "오이타현 벳푸시 에키마에초 3-9",
+    "hoursLabel": "영업시간",
+    "hours": "매일 12:00–20:00 영업",
+    "accessLabel": "오시는 길",
+    "accessBody": "JR 벳푸역 동쪽 출구에서 도보로 바로 이동 가능합니다.",
+    "phoneLabel": "전화번호",
+    "emailLabel": "이메일",
+    "instagramLabel": "Instagram",
+    "futureTitle": "새로운 매장, 곧 만나요",
+    "futureBody": "酒氷은 계속 성장하고 있습니다! 새 매장 소식은 이 페이지와 Instagram을 통해 안내해 드릴게요.",
+    "mapLabel": "지도"
+  },
+  "merchPage": {
+    "title": "굿즈",
+    "eyebrow": "오픈 예정",
+    "body": "굿즈를 준비 중입니다. 벳푸의 빙수 문화와 酒氷만의 감성을 담은 오리지널 굿즈가 곧 찾아옵니다. Instagram을 팔로우하고 가장 먼저 소식을 받아보세요.",
+    "cta": "Instagram 팔로우"
+  },
+  "galleryPage": {
+    "title": "갤러리",
+    "subtitle": "酒氷의 매장 공간과 메뉴의 모든 빙수를 자세히 소개합니다.",
+    "spaceTitle": "매장 공간",
+    "productTitle": "酒氷 라인업",
+    "seasonalAlcoholName": "홍차 매실주",
+    "seasonalNonAlcoholName": "카보스"
+  },
+  "footer": {
+    "tagline": "削る、香る、味わう。",
+    "addressShort": "오이타현 벳푸시 에키마에초 3-9",
+    "rights": "All rights reserved."
+  },
+  "contact": {
+    "phoneLabel": "전화번호",
+    "emailLabel": "이메일",
+    "addressLabel": "주소",
+    "phone": "070-3293-8443",
+    "email": "sakegori.jp@gmail.com",
+    "address": "오이타현 벳푸시 에키마에초 3-9"
+  },
+  "languageSwitcher": {
+    "label": "언어"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "siteTitle": "酒氷 SAKEGORI — Beppu",
+    "siteDescription": "Hand-shaved ice soaked in silky sake syrup, piled high in a traditional Japanese masu. Beppu, Oita."
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "store": "Store Access",
+    "merch": "Merch"
+  },
+  "hero": {
+    "eyebrow": "Beppu, Oita",
+    "title": "酒氷",
+    "titleRomaji": "SAKEGORI",
+    "tagline": "削る、香る、味わう。",
+    "taglineEn": "Shaved, Aromatic, Tasteful.",
+    "body": "Hand-shaved ice, soaked in silky sake syrup and piled high in a traditional Japanese masu — a Beppu original, one bowl at a time.",
+    "ctaMenu": "View the Menu",
+    "ctaStore": "Find Our Store"
+  },
+  "menuPreview": {
+    "title": "Our Menu",
+    "subtitle": "A quick look at what's shaved, brewed, and poured.",
+    "scrollHint": "Scroll for more",
+    "viewAll": "See Full Menu",
+    "alcoholTag": "Alcohol",
+    "nonAlcoholTag": "Non-Alcohol"
+  },
+  "menuPage": {
+    "title": "Menu",
+    "subtitle": "削る、香る、味わう。 Shaved, Aromatic, Tasteful.",
+    "priceNote": "All prices include tax.",
+    "allergyNote": "Please ask our staff about allergies.",
+    "kakigoriAlcoholTitle": "酒氷 (Alcohol)",
+    "kakigoriNonAlcoholTitle": "酒氷 (Non-Alcoholic)",
+    "seasonalNote": "Please ask our staff about today's seasonal item.",
+    "brownSugarNote": "All SAKEGORI (shaved ice) are served with freshly shaved Okinawan brown sugar. If you'd prefer not to have it, please let our staff know.",
+    "drinksTitle": "Drinks",
+    "toppingsTitle": "Toppings",
+    "sakeTitle": "Japanese Sake",
+    "abvLabel": "ABV",
+    "servedInGlass": "Served in a glass.",
+    "setTitle": "酒氷 SET",
+    "setDescription": "Any SAKEGORI (Alcohol or Non-Alcoholic) + Any Drink Of Your Choice",
+    "setSeasonalNote": "For Seasonal SAKEGORI",
+    "sakeItems": {
+      "yuzuSparkling": {
+        "name": "Yuzu Sparkling Sake",
+        "description": "A refreshingly light sparkling sake from Oita, brightened with yuzu citrus."
+      },
+      "juliaSparkling": {
+        "name": "Julia Sparkling Sake",
+        "description": "A crisp, refreshing junmai-based sparkling sake."
+      },
+      "todaysSake": {
+        "name": "Today's Sake",
+        "description": "Ask our staff about today's selection, served warm or chilled."
+      }
+    },
+    "items": {
+      "white": {
+        "name": "White",
+        "descriptionAlcohol": "A creamy, milk-based ice gently laced with junmai sake, finished with a dusting of freshly shaved black sugar — smooth, comforting, and quietly warming.",
+        "descriptionNonAlcohol": "A creamy, milk-based ice sweetened with our housemade amazake, finished with shaved black sugar — gentle, comforting, and naturally sweet."
+      },
+      "black": {
+        "name": "Black",
+        "descriptionAlcohol": "Rich milk ice deepened with junmai sake and black sugar syrup, finished with a generous shaving of black sugar — dark, creamy, and warmly sweet.",
+        "descriptionNonAlcohol": "Rich milk ice deepened with housemade amazake and black sugar syrup, finished with a generous shaving of black sugar — dark, creamy, and warmly sweet."
+      },
+      "matcha": {
+        "name": "Matcha",
+        "nameAlcohol": "Matcha Latte",
+        "descriptionAlcohol": "Whisked matcha folded into velvety milk with a gentle warmth of coffee liqueur, finished with shaved black sugar — earthy, creamy, and quietly bold.",
+        "descriptionNonAlcohol": "Whisked matcha folded into velvety milk and housemade amazake, finished with shaved black sugar — earthy, creamy, and naturally sweet."
+      },
+      "coffee": {
+        "name": "Coffee",
+        "descriptionAlcohol": "Silky milk ice warmed with coffee liqueur, finished with a dusting of shaved black sugar — bittersweet, creamy, and smooth.",
+        "descriptionNonAlcohol": "Silky milk ice sweetened with housemade amazake and coffee syrup, finished with shaved black sugar — smooth, roasty, and comforting."
+      },
+      "seasonal": {
+        "name": "Seasonal",
+        "descriptionAlcohol": "A rotating, limited-time creation — recent editions have featured a plum wine-infused ice finished with shaved black sugar. Ask our staff what's pouring today.",
+        "descriptionNonAlcohol": "A rotating, limited-time creation — recent editions have featured a sparkling kabosu-citrus ice. Ask our staff what's featured today."
+      },
+      "cafeLatte": {
+        "name": "Cafe Latte",
+        "description": "House coffee and black sugar syrup swirled with housemade amazake and milk over ice — smooth, roasty, and gently sweet."
+      },
+      "matchaLatte": {
+        "name": "Matcha Latte",
+        "description": "Whisked matcha and milk over ice, dusted with matcha powder — earthy, fragrant, and lightly sweet."
+      },
+      "brownSugarLatte": {
+        "name": "Brown Sugar Latte",
+        "description": "Black sugar syrup and housemade amazake swirled with milk over ice, finished with shaved black sugar — deep, creamy, and comforting."
+      },
+      "kabosuSoda": {
+        "name": "Kabosu Soda",
+        "description": "Kabosu citrus syrup topped with tonic water over ice, garnished with fresh kabosu — crisp, tart, and refreshing."
+      },
+      "condensedMilk": {
+        "name": "Condensed Milk",
+        "description": "A drizzle of rich condensed milk for extra creaminess."
+      },
+      "shavedBrownSugar": {
+        "name": "Shaved Brown Sugar",
+        "description": "An extra flurry of freshly shaved Okinawan brown sugar."
+      },
+      "roastedSoybeanFlour": {
+        "name": "Roasted Soybean Flour",
+        "description": "Nutty, toasted kinako for warm, roasted depth."
+      }
+    }
+  },
+  "storePage": {
+    "title": "Store Access",
+    "subtitle": "Find us in Beppu",
+    "currentStoreTitle": "SAKEGORI Main Store",
+    "addressLabel": "Address",
+    "address": "3-9 Ekimae-cho, Beppu, Oita, Japan",
+    "addressJa": "大分県別府市駅前町3-9",
+    "hoursLabel": "Hours",
+    "hours": "Open every day, 12:00 PM – 8:00 PM",
+    "accessLabel": "Access",
+    "accessBody": "A short walk from JR Beppu Station's east exit.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "instagramLabel": "Instagram",
+    "futureTitle": "More Locations Coming Soon",
+    "futureBody": "We're growing! New 酒氷 locations will be announced here and on Instagram — check back soon.",
+    "mapLabel": "Map"
+  },
+  "merchPage": {
+    "title": "Merch",
+    "eyebrow": "Coming Soon",
+    "body": "Something's brewing. 酒氷 merchandise is on the way — pieces inspired by Beppu's shaved-ice culture and our own brand craft. Follow us on Instagram to be the first to know.",
+    "cta": "Follow on Instagram"
+  },
+  "galleryPage": {
+    "title": "Gallery",
+    "subtitle": "A closer look at 酒氷 — our space, and every shaved ice on the menu.",
+    "spaceTitle": "Our Space",
+    "productTitle": "The Shaved Ice",
+    "seasonalAlcoholName": "Plum Black Tea",
+    "seasonalNonAlcoholName": "Kabosu"
+  },
+  "footer": {
+    "tagline": "削る、香る、味わう。",
+    "addressShort": "3-9 Ekimae-cho, Beppu, Oita",
+    "rights": "All rights reserved."
+  },
+  "contact": {
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "phone": "070-3293-8443",
+    "email": "sakegori.jp@gmail.com",
+    "address": "大分県別府市駅前町3-9"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}
